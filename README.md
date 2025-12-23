@@ -1,7 +1,6 @@
 # Project Tarkus 🚀
 
-![Project Render](Docs/render_top.png)
-*(Note: Place your 3D render image in the Docs folder and name it render_top.png)*
+![Project Render](Docs/3d.png)
 
 ## Overview
 **Project Tarkus** is a custom development board designed for embedded systems study and prototyping, built around the **STM32G030K6T6** microcontroller.
