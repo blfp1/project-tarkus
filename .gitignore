@@ -1,0 +1,21 @@
+# KiCad ignore files
+*.kicad_prl
+*.kicad_pcb-bak
+*.sch-bak
+*-bak
+fp-info-cache
+*.bck
+*.kicad_dru
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.swp
+*~
+*.tmp
+
+# Output files (Gerbers usually go in releases, but okay to ignore locally if generated often)
+*/Gerbers/*
